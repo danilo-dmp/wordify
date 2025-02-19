@@ -10,7 +10,7 @@
 
 ## Demo
 Check out the live demo of the app here:  
-[Wordify - Demo]([https://wordify.vercel.app](https://wordifyv1.vercel.app/))
+[Wordify - Demo](https://wordifyv1.vercel.app/)
 
 
 ## Deployment
